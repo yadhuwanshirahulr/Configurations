@@ -6,7 +6,7 @@ accounts:
   message: "Message from live/prod profile"
   contactDetails:
     name: "live server"
-    email: "{cipher} eee4ed8e8fe12d75d2516be3a467485e940d09dcdeb983d8b6d59d523bb2bbae35bb667e583befa1bc3d8af39362d10b"
+    email: "{cipher}234028b81d1d344a8a76195d86269951b56b92b1e02668d6cafbb08ad83cc43c8402a4f2453cea55c93a051c6665a4aa"
   onCallSupport:
     - (911)3456778
     - (911)2346789
