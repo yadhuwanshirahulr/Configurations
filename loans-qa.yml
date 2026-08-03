@@ -3,7 +3,7 @@ build:
   version: "QA"
 
 loans:
-  message: "Message from QA profile"
+  message: "Message from QA(new) profile"
   contactDetails:
     name: "QA profile"
     email: "QA@gmail.com"
