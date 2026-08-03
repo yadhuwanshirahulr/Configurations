@@ -3,7 +3,7 @@ build:
   version: "live"
 
 accounts:
-  message: "Message from live profile"
+  message: "Message from prod/live profile"
   contactDetails:
     name: "live server"
     email: "{cipher}234028b81d1d344a8a76195d86269951b56b92b1e02668d6cafbb08ad83cc43c8402a4f2453cea55c93a051c6665a4aa"
