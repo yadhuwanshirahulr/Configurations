@@ -3,7 +3,7 @@ build:
   version: "QA"
 
 cards:
-  message: "Message from QA(new) profile"
+  message: "Message from QA(Cloud Bus) profile"
   contactDetails:
     name: "QA profile"
     email: "QA@gmail.com"
